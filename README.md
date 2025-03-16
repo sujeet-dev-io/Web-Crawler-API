@@ -44,6 +44,8 @@ To access **Swagger UI**, disable global exception handling temporarily:
 1. **Comment out `@RestControllerAdvice`** in `com.biztel.ai.exception` package.
 2. Start the application.
 3. Open: [Swagger UI](http://localhost:8080/swagger-ui/index.html).
+4. ![localhost_8080_swagger-ui_index html](https://github.com/user-attachments/assets/607c53d2-9140-467f-87f1-b873c595ae64)
+
 
 ---
 
